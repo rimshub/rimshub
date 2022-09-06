@@ -2,7 +2,7 @@
 <h2 align="center">Front-end React Web Developer </h2> 
 
 - 🔭 I develop responsive websites in JavaScript/React, CSS/Sass/Bootstrap
-- 🌱 I’m currently mastering JavaScrit/React JS
+- 🌱 I’m currently mastering JavaScript/React JS
 - 😄 I enjoy creating website designs in Figma
 - ⚡ Open to work
 
