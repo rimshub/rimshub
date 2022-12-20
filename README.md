@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I’m Rimsha</h1> 
-<h2 align="center">Front-end React Web Developer </h2> 
+<h2 align="center">Front-end Development | Web and Mobile Developer | React Developer </h2> 
 
 - 🔭 I develop responsive websites in JavaScript/React, CSS/Sass/Bootstrap
 - 🌱 I’m currently mastering JavaScript/React JS
@@ -8,8 +8,6 @@
 
 
 <h3>Languages & Tools I Use:</h3>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rimshub&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
