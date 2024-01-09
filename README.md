@@ -1,8 +1,12 @@
 <h1 align="center">Hi, I’m Rimsha</h1> 
-<h2 align="center">Front-end Development | Web and Mobile Developer | React Developer </h2> 
+<h2 align="center">ReactJS Developer | Front-end Development | Webflow Developer </h2> 
 
-- 🔭 I develop responsive websites in JavaScript/React, CSS/Sass/Bootstrap
-- 🌱 I’m currently mastering JavaScript/React JS
+<h3 align="center">Portfolio:</h3> 
+
+- [Development Portfolio](https://rimshadev-portfolio.vercel.app/)
+- [Design Portfolio](https://rimsha-design-portfolio.webflow.io/)
+- 🔭 I develop responsive websites in JavaScript/React, CSS/Sass/Bootstrap/Tailwind CSS
+- 🌱 I’m currently mastering NextJ, full stack development
 - 😄 I enjoy creating website designs in Figma
 - ⚡ Open to work
 
