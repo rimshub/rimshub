@@ -1,6 +1,10 @@
 <h1 align="center">Hi, I’m Rimsha</h1> 
-<h2 align="center">ReactJS Developer | Front-end Development | Webflow Developer </h2> 
+<h2 align="center">I'm a Senior Product Designer, Webflow & Figma Expert.</h2> 
 
+<h3>If you're looking for an experienced designer with working knowledge of code, let's Connect:</h3>
+
+<p><a href="https://www.linkedin.com/in/rimsha-6b2407198" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin-profile" height="auto" width="30"/></a>
+</p>
 
 <h3>Languages & Tools I Use:</h3>
 
@@ -14,10 +18,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="sass" width="35" height="35"/>
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="35" height="35"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="30" height="35"/>
-</p>
-
-<h3>Let's Connect:</h3>
-
-<p><a href="https://www.linkedin.com/in/rimsha-6b2407198" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin-profile" height="auto" width="30"/></a>
 </p>
 
